@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PPP",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "ericsmodscore:microplastics"
+    }
+  },
+  "result": {
+    "item": "ericsmodscore:microplastics_block"
+  }
+}

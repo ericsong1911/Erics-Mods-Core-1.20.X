@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PPP",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "ericsmodscore:plastic_bar"
+    }
+  },
+  "result": {
+    "item": "ericsmodscore:plastic_block"
+  }
+}

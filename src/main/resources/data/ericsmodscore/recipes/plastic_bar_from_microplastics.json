@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "cookingtime": 200,
+  "experience": 0.5,
+  "ingredient": {
+    "item": "ericsmodscore:microplastics"
+  },
+  "result": "ericsmodscore:plastic_bar"
+}
